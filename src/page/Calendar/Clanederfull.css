@@ -1,0 +1,4 @@
+#calendar .fc-toolbar-chunk div{display: flex; gap: 20px; padding-top: 10px;}
+#calendar .fc-toolbar-chunk div button{
+    border-radius: 100%; border-color:#1B1D21; background: none;}
+    #calendar .fc-toolbar-chunk div button .fc-icon::before{color: rgb(16, 14, 14);}

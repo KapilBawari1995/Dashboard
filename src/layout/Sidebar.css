@@ -1,0 +1,22 @@
+.col-md-2.bg-light.sidebar.vh-100 {
+    padding: 0 !important;
+}
+
+
+
+.nav-item {
+    border-left: 4px solid transparent; 
+
+}
+
+.active-item {
+    background-color:rgba(250, 246, 255, 1);
+    border-left: 4px solid rgba(106, 0, 243, 1); 
+    color: rgba(106, 0, 243, 1);
+    transition: background-color 0.3s ease;
+}
+
+.sidebar .nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.1); 
+}
+.sidebar{padding: 0 !important;}

@@ -1,0 +1,42 @@
+body ,
+input.me-2.serch_bar.form-control, .button_bg_two , .button_bg, .custom-font{
+  font-size: 12px !important; 
+}
+ .accordion-button::after{ width: 15px !important;  height: 15px !important; background-size: contain !important;}
+.scroll_hide::-webkit-scrollbar {   width: 5px;}
+#event-tabs li button.active{background: none; color: #6A00F3; font-weight: bold;}
+#accordionExample{display: grid; gap: 10px;}
+.accordion-button:focus {box-shadow: none !important;}
+.accordion-button:not(.collapsed) {background: none !important;}
+
+ul#event-tabs {
+  display: flex;
+  gap: 10px;
+}
+#event-tabs li button{padding: 0; padding-bottom: 4px;}
+.accordion-button:not(.collapsed){box-shadow: none !important;}
+.sidebar {
+  padding-top: 20px;
+  width: 300px;
+  background: red;
+}
+
+.sidebar .nav-link {
+  font-weight: bold;
+  color: #333;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #f8f9fa;
+  color: #8e9399;
+}
+
+.main-content {
+  background-color: #f8f9fa;
+  padding: 20px;
+}
+.z_index_999{z-index: 9999 !important;}
+.postion_fixd{position: fixed !important;}
+
+
+

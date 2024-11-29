@@ -1,0 +1,74 @@
+{
+    "patientlabes": [
+        {
+            "key": "fileNo",
+            "displayName": "File No"
+        },
+        {
+            "key": "name",
+            "displayName": "Name"
+        },
+        {
+            "key": "address",
+            "displayName": "Address"
+        },
+        {
+            "key": "city",
+            "displayName": "City"
+        },
+        {
+            "key": "Number",
+            "displayName": "Contact Number"
+        },
+        {
+            "key": "dob",
+            "displayName": "Date of Birth"
+        },
+        {
+            "key": "policyno",
+            "displayName": "Policy No"
+        }
+    ],
+    
+    
+        "invoiceLabels": [
+            {
+                "key": "fileNo",
+                "displayName": "File No"
+            },
+            {
+                "key": "date",
+                "displayName": "Date"
+            },
+            {
+                "key": "amount",
+                "displayName": "Amount"
+            },
+            {
+                "key": "assignor",
+                "displayName": "Assignor"
+            },
+            {
+                "key": "provider",
+                "displayName": "Provider"
+            },
+            {
+                "key": "principalAmount",
+                "displayName": "Principal Amount"
+            },
+            {
+                "key": "interestAmount",
+                "displayName": "Interest Amount"
+            },
+            {
+                "key": "filingFees",
+                "displayName": "Filing Fees"
+            },
+            {
+                "key": "legalFeesDue",
+                "displayName": "Legal Fees Due"
+            }
+        ]
+    
+    
+}
